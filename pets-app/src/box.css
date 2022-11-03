@@ -1,0 +1,15 @@
+.app {
+    text-align: center;
+}
+
+.box {
+    background-color: purple;
+    border-color: black;
+    padding: 2rem;
+    font-size: 4 rem;
+}
+.box.is-active {
+    background-color: yellow;
+    padding: 2rem;
+    font-size: 6rem;
+}
