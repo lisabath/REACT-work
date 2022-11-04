@@ -12,7 +12,7 @@ function Dog({dogYears, colour, breed, name}) {
 
     return (
         <div style={styles}>
-        <h2>Hi, I guard my garden.</h2>
+        <h2>Hi, I guard my yard.</h2>
         <p>My name is  {name} and I am a {breed}</p> 
         {/* create a sentence that says how old I am in dog years and human years */}
         <p>I am {dogYears} years old. That is like being a {humanYears} year old human.
